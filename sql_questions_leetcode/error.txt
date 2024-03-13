@@ -1,0 +1,16 @@
+
+5 : Expecting value: line 1 column 152 (char 151)
+10 : near "p1": syntax error
+11 : near "1": syntax error
+14 : no such function: DATEDIFF
+22 : Got invalid JSON object. Error: Invalid control character at: line 2 column 57 (char 58)
+30 : 'NoneType' object is not iterable
+39 : no such function: YEAR
+42 : Got invalid JSON object. Error: Invalid control character at: line 2 column 30 (char 31)
+43 : no such function: DATE_FORMAT
+50 : Got invalid JSON object. Error: Invalid control character at: line 2 column 19 (char 20)
+54 : near "ORDER": syntax error
+55 : no such function: REGEXP
+61 : near "(": syntax error
+71 : no such function: YEAR
+2 : no such column: n
